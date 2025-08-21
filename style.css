@@ -2,3 +2,22 @@ body{
     background-color: blueviolet;
     color: aquamarine
 }
+section{
+    background-color: rgb(164, 231, 151);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex;
+    justify-content: center;
+}
+.chamadatexto{
+    margin-rigth:40px;
+}
+ing{
+    height:200px;
+}
+.chamada-video{
+    display:flex
+    overflow-x:auto;
+    gap:10px;
+}
+
