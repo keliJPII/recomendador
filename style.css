@@ -1,7 +1,7 @@
 body{
     background-color: blueviolet;
-    color: aquamarine
-    
+    color: aquamarine;
+    font-family:Story Script;
 }
 section{
     background-color: rgb(164, 231, 151);
@@ -9,16 +9,35 @@ section{
     padding-bottom: 80px;
     display:flex;
     justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .chamadatexto{
     margin-rigth:40px;
 }
-ing{
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+}
+header{
+    font-size: 30px;
+    padding-left: 20px;
+    color: blueviolet;
+}
+img{
     height:200px;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    background-color: blue;
 }
 .chamada-video{
     display:flex
-    overflow-x:auto;
+    overflow-x: auto;
     gap:10px;
 } 
 
