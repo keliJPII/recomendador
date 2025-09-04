@@ -4,7 +4,7 @@ body{
     font-family:Story Script;
 }
 section{
-    background-color: rgb(164, 231, 151);
+    background-color: rgb(231, 151, 227);
     padding-top: 80px;
     padding-bottom: 80px;
     display:flex;
@@ -24,7 +24,7 @@ p{
 header{
     font-size: 30px;
     padding-left: 20px;
-    color: blueviolet;
+    color: rgb(215, 177, 250);
 }
 img{
     height:200px;
@@ -33,7 +33,7 @@ img{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 5px;
-    background-color: blue;
+    background-color: rgb(93, 93, 250);
 }
 .chamada-video{
     display:flex
